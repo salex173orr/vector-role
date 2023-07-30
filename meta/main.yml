@@ -1,4 +1,6 @@
 galaxy_info:
+  role_name: vector_role
+  namespace: my_galaxy_namespace
   author: Alexandr Shtykov
   description: This role install vector
   company: netology_devops
